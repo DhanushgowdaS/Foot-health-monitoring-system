@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-API_URL = "https://smart-footwear-api.onrender.com"
+API_URL = "https://ai-footwear-ulcer-detection.onrender.com"
 
 st.set_page_config(
     page_title="Smart Footwear Dashboard",
