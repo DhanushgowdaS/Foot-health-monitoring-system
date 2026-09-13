@@ -1,4 +1,4 @@
-#Foot Health Monitoring System
+# Foot Health Monitoring System
 
 An IoT and Machine Learning based smart footwear system for real-time
 monitoring and early prediction of diabetic foot ulcer risk.
