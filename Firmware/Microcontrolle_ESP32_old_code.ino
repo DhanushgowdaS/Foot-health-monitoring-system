@@ -6,7 +6,7 @@
 // WiFi Credentials
 const char* ssid = "Admin";
 const char* password = "password";
-const char* serverUrl = "https://smart-footwear-api.onrender.com/log";
+const char* serverUrl = "https://ai-footwear-ulcer-detection.onrender.com/log";
 
 // Variables for averaging
 int sampleCount = 0;
